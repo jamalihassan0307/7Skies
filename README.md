@@ -87,6 +87,7 @@ Experience the full web admin interface with all features and functionalities.
   <img src="screenshots/banner/teacher_add_banner.png" alt="Teacher Add Banner" width="300"/>
   <img src="screenshots/banner/web_dashboard_banner.png" alt="Web Dashboard Banner" width="300"/>
   <img src="screenshots/banner/web_login_banner.png" alt="Web Login Banner" width="300"/>
+  <img src="screenshots\banner\github.png" alt="Github Picture" width="300"/>
 </div>
 
 ## 📸 Screenshots
